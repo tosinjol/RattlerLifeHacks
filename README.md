@@ -30,16 +30,16 @@ For Rattlers LifeHacks, we identified the following "must-have" features that a 
 
 - [X] Get all users 
 - [X] Get user Id 
-- [ ] User can post their campus events
-- [ ] User can create a new organization account
+- [X] User can post their campus events
+- [X] User can create a new organization account
 - [X] User can create a new student account
 - [X] User can login
 - [X] User can update their username
 - [X] User can update profile picture
-- [ ] User can search for events
+- [X] User can search for events
 - [X] User can view a feed of events
-- [ ] User can tap their RattlerCard
-- [ ] User can see food/financial aid wait times
+- [X] User can tap their RattlerCard
+- [X] User can see food/financial aid wait times
 - [X] User can view study room availability
 
 
